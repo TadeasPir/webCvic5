@@ -1,0 +1,38 @@
+div{
+    box-sizing: border-box;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.logo{
+    background: #eb6481;
+    float: left;
+}
+.navigation{
+    background: #d76a50;
+    float: right;
+}
+.header{
+    background: #f2a062;
+    height: 100px;
+}
+.sidebar{
+    background: #f6bd62;
+    float: left;
+    width: 250px;
+    height: 300px;
+}
+.main{
+    background: #8eabc0;
+    color: white;
+    float: left;
+    width: 734px;
+    height: 300px;
+}
+.footer{
+    background: #b7ce3f;
+    clear: both;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto; 
+}
