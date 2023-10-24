@@ -23,7 +23,17 @@ div{
 .sidebar{
     background: #b7ce3f;
     clear: both;
-
+ height: 300px;
+}
+.post_title{
+    float: left;
+}
+.text{
+    background: black;
+    opacity: 0.6;
+    color: white;
+    float: right;
+    scale: 75%;
 }
 .image{
     background: black;
@@ -31,6 +41,7 @@ div{
     color: white;
     float: left;
 }
+
 .container {
     width: 1024px;
     margin: 0 auto; 
