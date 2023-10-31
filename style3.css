@@ -18,22 +18,21 @@ div{
 .main{
     background: #8eabc0;
     color: white;
-    float: left;
+
 }
 .sidebar{
     background: #b7ce3f;
-    clear: both;
- height: 300px;
+    clear: both;    
+    height: 150px;
+
 }
-.post_title{
-    float: left;
-}
+
 .text{
     background: black;
     opacity: 0.6;
     color: white;
-    float: right;
     scale: 75%;
+    text-transform: initial;
 }
 .image{
     background: black;

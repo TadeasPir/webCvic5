@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    width: 1024px;
+    justify-content: flex-start;
+    text-align: center;
+  }
+
+  .container > div{
+    text-transform: uppercase;
+    box-sizing: border-box;
+    padding: 20px;
+   
+}
+.header{
+    background: #f2a062;
+  
+    width: 1024px;
+}
+.sidebar{
+    background: #f6bd62;
+    width: 250px;
+    height: 300px;
+    flex-wrap: wrap;
+   
+}
+.main{
+    background: #8eabc0;
+    color: white;
+    width: 734px;
+    height: 300px;
+}
+.footer{
+    background: #b7ce3f;
+
+}
